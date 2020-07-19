@@ -35,6 +35,11 @@ export default {
           name: 'James T. McGinnis',
           email: 'james@armyspy.com'
         },
+        {
+          id: 4,
+          name: 'Sashi Kirana',
+          email: 'sashi@gmail.com'
+        },
       ]
     }
   },
